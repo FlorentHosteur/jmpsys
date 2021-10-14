@@ -2,7 +2,7 @@
 #             Jumpim apps Build script for Ragnarokkr            #
 #                         HOSTEUR 2021                           #
 #                                                     Florent G. #
-##################################################################
+##################################################################²
 
 import requests
 import json
